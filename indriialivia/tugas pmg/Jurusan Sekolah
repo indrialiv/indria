@@ -1,0 +1,14 @@
+<html>
+<head>
+<title> Informasi Jurusan Sekolah </title>
+</head>
+<body>
+<center>
+Informasi Jurusan Sekolah
+</center>
+Jurusan Di SMK Plus Pratama Adi:
+<ol>
+	<li>Teknik Komputer Jaringan</li>
+	<li>Akuntansi</li>
+</ol>
+</body>

@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> Informasi Sekolah </title>
+</head>
+<body>
+<center>
+Informasi Sekolah
+</center>
+Identitas Sekolah:
+<ol>
+	<li>Nama Sekolah : SMK Plus Pratama Adi</li>
+	<li>Alamat       : Jl.Dipatiukur no.8 RT.03/03,Banjaran wetan,kec.Banjaran,kab.Bandung</li>
+	<li>Usia Sekolah : 14 thn</li>
+</ol>
+</body>
